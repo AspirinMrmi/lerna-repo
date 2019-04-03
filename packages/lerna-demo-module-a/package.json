@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo-module-amhb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-demo-coremhb": "^1.0.4"
+    "lerna-demo-coremhb": "^1.0.5"
   },
   "gitHead": "a9896e4f3214adbfeaa531e041e5f6f304101fcf"
 }
