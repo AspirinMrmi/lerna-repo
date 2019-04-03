@@ -1,5 +1,5 @@
 {
-  "name": "lerna-demo-core",
+  "name": "lerna-demo-coremhb",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "9e304247a5bc5e33648776f9c51a06e778c9569c"
+  "gitHead": "a9896e4f3214adbfeaa531e041e5f6f304101fcf"
 }
