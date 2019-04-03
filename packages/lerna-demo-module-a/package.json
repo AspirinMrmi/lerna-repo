@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo-module-a",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-demo-core": "^1.0.2"
+    "lerna-demo-core": "^1.0.3"
   },
   "gitHead": "9e304247a5bc5e33648776f9c51a06e778c9569c"
 }
